@@ -1,7 +1,7 @@
 package com.example.kotlinlearning1
 
 fun main() {
-    var object2 = Person("Sithma", "Hirushi")
+    var object2 = Person("Sithma", "Hirushii")
     var object1 = Person(lastName = "De Silva")
 
     object2.favoriteColor = "Blue"
